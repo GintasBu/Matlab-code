@@ -1,6 +1,6 @@
 # Matlab code used for airborne aerosol flux measurements
 
-Matlab scripts for airborne flux data pre-processing, analysis and plotting.
+Matlab scripts for airborne flux data pre-processing, analysis, flux calculations using EC method and data plotting.
 
 # Contributions
 
